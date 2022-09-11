@@ -1,0 +1,12 @@
+E:\Kars\BinaryTree\Tree\bin\Debug\net6.0\Tree.deps.json
+E:\Kars\BinaryTree\Tree\bin\Debug\net6.0\Tree.dll
+E:\Kars\BinaryTree\Tree\bin\Debug\net6.0\Tree.pdb
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\Tree.csproj.AssemblyReference.cache
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\Tree.AssemblyInfoInputs.cache
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\Tree.AssemblyInfo.cs
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\Tree.csproj.CoreCompileInputs.cache
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\Tree.dll
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\refint\Tree.dll
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\Tree.pdb
+E:\Kars\BinaryTree\Tree\obj\Debug\net6.0\ref\Tree.dll

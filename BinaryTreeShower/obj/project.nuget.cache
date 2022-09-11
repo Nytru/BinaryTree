@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2F2hJ1IMX3JlOgIME5yxt9Wt/YUAYbohM8eFa3eO5pTQ2jDhifCcwJZTV2fFEI57frmNE4BUoFmizvHeNKFvw==",
+  "success": true,
+  "projectFilePath": "E:\\Kars\\BinaryTree\\BinaryTreeShower\\BinaryTreeShower.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lein\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Lein\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Lein\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
