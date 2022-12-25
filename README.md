@@ -1,1 +1,1 @@
-Simple representation of bшnary tree in c#
+Simple representation of binary tree in c#
